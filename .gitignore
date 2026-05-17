@@ -1,0 +1,6 @@
+dbms
+src/lex.yy.c
+src/sql.tab.c
+src/sql.tab.h
+data/*
+!data/.gitkeep
